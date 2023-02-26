@@ -24,3 +24,7 @@
 <p align="center">
   <img src= "https://i.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.webp">
 </p>
+
+
+
+[![Roudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=roudra323)](https://github.com/anuraghazra/github-readme-stats)
