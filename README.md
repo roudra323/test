@@ -22,9 +22,18 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.webp">
+  <img src= "https://i.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.webp" height="80px" width="80px">
 </p>
 
 
 
-[![Roudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=roudra323)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roudra323&count_private=true&show_icons=true&theme=dracula" width="48%"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula"height="200px" width="48%"/>
+</a>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roudra323&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
