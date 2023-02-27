@@ -1,6 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Helloo,Roudra%20here!&height=100&section=header"/>
 </p>
+
+
+- 👋 Hi, I’m Asir Shahriar Roudra
+- 👀 I’m interested in Blockchain, Solidity, Smart Contract, Python, Django Framework
+- 🌱 I’m currently learning Smart Contract,Solidity
+- 💞️ I’m looking to collaborate on Smart Contract Development
+- 📫 Reach me [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/asir-shahriar-roudra-423567206/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:asirroudra@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
+
+
+
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roudra323&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Roudra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+</br>
+
+
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roudra323&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+
+
+
+
+
+
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -19,21 +50,8 @@
 <a href="https://twitter.com/AsirRoudra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-</p>
-
-<p align="center">
-  <img src= "https://i.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.webp" height="80px" width="80px">
-</p>
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roudra323&count_private=true&show_icons=true&theme=dracula" width="48%"/>
+  
+  <a href="https://twitter.com/AsirRoudra">
+  <img height="50" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula"height="200px" width="48%"/>
-</a>
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roudra323&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
